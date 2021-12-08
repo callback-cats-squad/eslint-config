@@ -1,0 +1,11 @@
+{
+  "name": "@callback-cats/eslint-config",
+  "version": "0.0.1",
+  "description": "ESlint and Prettier config for my team the Callback Cats",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kadin van valin <kadin@kadin.codes>",
+  "license": "ISC"
+}
