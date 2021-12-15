@@ -1,11 +1,15 @@
 {
   "name": "@callback-cats/eslint-config",
-  "version": "0.0.1",
+  "version": "0.0.5",
   "description": "ESlint and Prettier config for my team the Callback Cats",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "kadin van valin <kadin@kadin.codes>",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "@rushstack/eslint-config": "^2.5.0",
+    "@rushstack/eslint-patch": "^1.1.0"
+  }
 }
